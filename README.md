@@ -7,6 +7,7 @@ install the following libraries using pip in your command-line
 2. pip install pymysql
 3. pip install pandas
 4. pip install numpy
+5. pip install requests
 
 
 Extract the project.
